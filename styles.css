@@ -63,7 +63,8 @@
 }
 .fullbutton
 {
-    width: 12%;
+    /*width: 12%;*/
+    flex-basis: 20%;
     height: 20px;
     padding: 10px;
     background-color: #716BA0;
