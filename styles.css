@@ -67,8 +67,13 @@
     background-color: #716BA0;
     text-decoration: none;
     color: white;
+    transition-duration: 0.5s;
 }
 .fullbutton:visited
 {
     text-decoration: none;
+}
+.fullbutton:hover
+{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.9);
 }
