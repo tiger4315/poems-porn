@@ -31,6 +31,7 @@
     margin-bottom: 25px;
     margin-left: 17%;
     margin-right: 17%;
+    width: 66%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -63,8 +64,6 @@
 }
 .fullbutton
 {
-    /*width: 12%;*/
-    flex-basis: 20%;
     height: 20px;
     padding: 10px;
     background-color: #716BA0;
